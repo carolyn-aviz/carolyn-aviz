@@ -54,7 +54,7 @@ Estou trabalhando na integração de um escritório de contabilidade utilizando 
 
 ## Experiência Profissional
 
-### [Fundação Publica Hospital de Clinicas Gaspar Vianna)
+### Fundação Publica Hospital de Clinicas Gaspar Vianna
 - Adquiri habilidades em redes, banco de dados e manutenção de computadores, além de me familiarizar com o sistema MVHospitalar.
 
 ## Educação
@@ -65,11 +65,7 @@ Estou trabalhando na integração de um escritório de contabilidade utilizando 
 ## Certificações e Conquistas
 
 - Campeã em Xadrez Feminino nos Jogos da Liga das Atléticas da UFPA
-- [Outras certificações/conquistas]
 
-## Contribuições para a Comunidade
-
-- [Descrição das contribuições]
 
 ## Estatísticas do GitHub
 
