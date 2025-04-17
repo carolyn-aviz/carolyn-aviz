@@ -18,7 +18,7 @@ Sou **estudante de Engenharia da Computação** pela Universidade Federal do Par
 
 ✨ Integro tecnologia com a espiritualidade da **Umbanda**, buscando sempre unir inovação com ancestralidade.  
 👩🏽‍💻 Curto resolver problemas com código, criar sistemas úteis e aprender tudo o que posso sobre **IA**, **redes** e **automações**.  
-🎓 Também sou **engenheira eletricista**, **maker**, amante de **xadrez** e **física** — especialmente **astrofísica**.  
+🎓 Também sou  **maker**, amante de **xadrez** e **física** — especialmente **astrofísica**.  
 💫 Ah, e sou filha de **Iansã de Balé** com **Oxóssi** — trago o vento da mudança e a sabedoria da floresta no meu caminhar.
 
 ---
